@@ -1,0 +1,59 @@
+{
+  "user_id": 1,
+  "playlist_id": 77,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "التاريخ",
+  "hidden": false,
+  "media": [
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:01:39",
+      "link": "https://www.youtube.com/watch?v=13MDRjojmiA",
+      "transcript_txt": "13MDRjojmiA.txt",
+      "transcript_srt": "13MDRjojmiA.srt"
+    },
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة الثانية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:21:16",
+      "link": "https://www.youtube.com/watch?v=AFZNKH0xmnY",
+      "transcript_txt": "AFZNKH0xmnY.txt",
+      "transcript_srt": "AFZNKH0xmnY.srt"
+    },
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة الثالثة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:34:00",
+      "link": "https://www.youtube.com/watch?v=VPrCzKv-zgo",
+      "transcript_txt": "VPrCzKv-zgo.txt",
+      "transcript_srt": "VPrCzKv-zgo.srt"
+    },
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة الرابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:54:45",
+      "link": "https://www.youtube.com/watch?v=s07kg7ZF3R4",
+      "transcript_txt": "s07kg7ZF3R4.txt",
+      "transcript_srt": "s07kg7ZF3R4.srt"
+    },
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة الخامسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:28:28",
+      "link": "https://www.youtube.com/watch?v=6FylnAYIMpA",
+      "transcript_txt": "6FylnAYIMpA.txt",
+      "transcript_srt": "6FylnAYIMpA.srt"
+    },
+    {
+      "title": "تاريخ الأمويين والعباسيين | المحاضرة السادسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:28:27",
+      "link": "https://www.youtube.com/watch?v=CJlZ6NVohMw",
+      "transcript_txt": "CJlZ6NVohMw.txt",
+      "transcript_srt": "CJlZ6NVohMw.srt"
+    }
+  ]
+}
